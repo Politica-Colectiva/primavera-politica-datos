@@ -1,7 +1,7 @@
 # Primavera Política: Analizando legislación participativa
 Plataforma para entender e impulsar la participación ciudadana desde las legislaciones locales en México.Un proyecto de Política Colectiva.
 
-(portada)
+![primavera-politica-portada](https://github.com/Politica-Colectiva/primavera-politica-datos/assets/6744123/4f1270a0-39bf-4c9b-9c11-839db1e5c82e)
 
 
 ## Descripción
@@ -18,7 +18,8 @@ Este proyecto surge de la necesidad de fortalecer la democracia participativa, d
 ## Sobre el Proyecto
 Hemos realizado una búsqueda exhaustiva en el Sistema de Consulta de Ordenamientos de la Suprema Corte de Justicia de la Nación, así como en las páginas de los Congresos Locales para identificar los mecanismos legislativos en las 32 entidades del país. También actualizamos trimestralmente la información de las listas nominales y padrones electorales basándonos en los Datos Abiertos del INE para calcular la cantidad de firmas necesarias para la activación de mecanismos de participación.
 
-(gif demo)
+![primavera-demo-01-min](https://github.com/Politica-Colectiva/primavera-politica-datos/assets/6744123/815c982c-3785-4693-b893-fa2083ddc5de)
+
 
 ### [¡Explora el proyecto!](https://politicacolectiva.com/primavera-politica/)
 
