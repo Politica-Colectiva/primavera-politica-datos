@@ -30,6 +30,8 @@ Hemos obtenido datos sobre mecanismos de participación ciudadana activados hast
 
 ### [Ver la base de datos de mecanismos activados](https://github.com/Politica-Colectiva/primavera-politica/datos/mecanismos_activados)
 
+### [Ver la base de datos con comparador de mecanismos entre estados](https://github.com/Politica-Colectiva/primavera-politica/datos/mecanismos_activados)
+
 ### [Ver carpeta con leyes estatales de Participación Ciudadana](https://drive.google.com/drive/folders/1g3qnXToGorDCZZjMwCiaVZhkTzVANtnN?usp=sharing)
 
 
