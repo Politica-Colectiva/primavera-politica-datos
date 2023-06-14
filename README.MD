@@ -26,7 +26,12 @@ Hemos realizado una búsqueda exhaustiva en el Sistema de Consulta de Ordenamien
 ## Consulta los datos
 Hemos obtenido datos sobre mecanismos de participación ciudadana activados hasta 2022 mediante solicitudes de información a través de la Plataforma Nacional de Transparencia a Institutos Electorales Locales, Secretarías de Gobierno y Congresos Locales.
 
+### [Ver la base de datos de mecanismos y requisitos de apoyo ciudadano por estado](https://docs.google.com/spreadsheets/d/1oYHrH89fZx3hd2bVxW2EUfGH4h_FKJnkNLpkVr9mXlI/edit#gid=1078159198)
+
 ### [Ver la base de datos de mecanismos activados](https://github.com/Politica-Colectiva/primavera-politica/datos/mecanismos_activados)
+
+### [Ver carpeta con leyes estatales de Participación Ciudadana](https://drive.google.com/drive/folders/1g3qnXToGorDCZZjMwCiaVZhkTzVANtnN?usp=sharing)
+
 
 ## Contribuciones
 Nos encantaría que te sumes a este esfuerzo para fortalecer la democracia participativa en México. Si te interesa contribuir, por favor escríbenos a hola@politicacolectiva.com
