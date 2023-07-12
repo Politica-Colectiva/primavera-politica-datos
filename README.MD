@@ -36,11 +36,11 @@ Todas las respuestas a las solicitudes pueden ser consultadas en nuestra base de
 ## Consulta los datos
 Hemos obtenido datos sobre mecanismos de participación ciudadana activados hasta 2022 mediante solicitudes de información a través de la Plataforma Nacional de Transparencia a Institutos Electorales Locales, Secretarías de Gobierno y Congresos Locales.
 
-### [Ver la base de datos de mecanismos y requisitos de apoyo ciudadano por estado](https://docs.google.com/spreadsheets/d/1oYHrH89fZx3hd2bVxW2EUfGH4h_FKJnkNLpkVr9mXlI/edit#gid=1078159198)
+### [Ver la base de datos de mecanismos y requisitos de apoyo ciudadano por estado](https://docs.google.com/spreadsheets/d/1oYHrH89fZx3hd2bVxW2EUfGH4h_FKJnkNLpkVr9mXlI/edit?usp=sharing)
 
-### [Ver la base de datos de mecanismos activados](https://github.com/Politica-Colectiva/primavera-politica/datos/mecanismos_activados)
+### [Ver la base de datos de mecanismos activados](https://docs.google.com/spreadsheets/d/18ExSHnpIjN_d6TTtG4CXM1KPKsVHX5l9/edit?usp=sharing&ouid=102179678712933792014&rtpof=true&sd=true)
 
-### [Ver la base de datos con comparador de mecanismos entre estados](https://github.com/Politica-Colectiva/primavera-politica/datos/mecanismos_activados)
+### [Ver la base de datos con comparador de mecanismos entre estados](https://docs.google.com/spreadsheets/d/1POArNHVZmU_q3qDmQF_R_zYBifAlhW0awjLjE8NeiFc/edit?usp=sharing)
 
 ### [Ver carpeta con leyes estatales de Participación Ciudadana](https://drive.google.com/drive/folders/1g3qnXToGorDCZZjMwCiaVZhkTzVANtnN?usp=sharing)
 
