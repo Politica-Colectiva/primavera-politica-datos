@@ -1,22 +1,32 @@
-# Primavera Política: Analizando legislación participativa
-Plataforma para entender e impulsar la participación ciudadana desde las legislaciones locales en México.Un proyecto de Política Colectiva.
+# Primavera Política: Participar en política más allá del voto es un derecho humano.
+Plataforma para entender e impulsar los mecanismos de participación ciudadana que existen en las legislaciones locales en México. Un proyecto de Política Colectiva.
 
 ![primavera-politica-portada](https://github.com/Politica-Colectiva/primavera-politica-datos/assets/6744123/4f1270a0-39bf-4c9b-9c11-839db1e5c82e)
 
 
 ## Descripción
-_Primavera Política_ es un proyecto de Política Colectiva que busca analizar la legislación en las 32 entidades federativas de México, facilitando así el entendimiento y aprovechamiento de las herramientas de participación ciudadana para influir en la toma de decisiones comunitarias. Además, ofrecemos acompañamiento y asesoramiento a personas en lo individual, colectivos y organizaciones de la sociedad civil para proponer mejoras a las normas locales en este tema.
+_Primavera Política_ es un proyecto de [Política Colectiva](https://politicacolectiva.com) que tiene el objetivo de analizar la legislación sobre participación ciudadana de las 32 entidades federativas. Nuestra meta es brindar a las personas una comprensión clara y aprovechamiento efectivo de las herramientas disponibles para influir en la toma de decisiones en sus comunidades.
+
+Además, brindamos apoyo a individuos, colectivos y organizaciones de la sociedad civil en la presentación de propuestas de mejora de las normas locales en esta área. También proporcionamos asesoramiento en la activación y utilización de los mecanismos de participación ciudadana.
 
 ## Antecedentes
-Este proyecto surge de la necesidad de fortalecer la democracia participativa, deliberativa y social a nivel subnacional, asegurando de esta forma el derecho humano a participar.
+Este proyecto surge de la necesidad de analizar el estado actual de la participación ciudadana desde el ámbito local local y buscar cómo impulsarla para fortalecer la democracia participativa, deliberativa y social a nivel subnacional.
 
 ## Objetivos
-1. Analizar la legislación nacional vigente relacionada con la participación ciudadana y hacerla accesible a las personas.
-2. Crear redes locales para identificar áreas de oportunidad y lograr mejoras en la legislación estatal o municipal de participación ciudadana.
+1. Analizar toda la legislación nacional vigente relacionada con la participación ciudadana y hacerla accesible a las personas. 
+2. Tejer redes locales para encontrar áreas de oportunidad y lograr mejoras en legislación estatal o municipal de participación ciudadana. 
 3. Acompañar a personas, colectivos y organizaciones de la sociedad civil en el uso de mecanismos de participación como herramienta de incidencia. 
 
 ## Sobre el Proyecto
-Hemos realizado una búsqueda exhaustiva en el Sistema de Consulta de Ordenamientos de la Suprema Corte de Justicia de la Nación, así como en las páginas de los Congresos Locales para identificar los mecanismos legislativos en las 32 entidades del país. También actualizamos trimestralmente la información de las listas nominales y padrones electorales basándonos en los Datos Abiertos del INE para calcular la cantidad de firmas necesarias para la activación de mecanismos de participación.
+Política Colectivo hizo una búsqueda en el Sistema de Consulta de Ordenamientos de la Suprema Corte de Justicia de la Nación, así como en las páginas de los Congresos Locales del país para conocer los mecanismos que se encuentran legislados en las 32 entidades del país.
+Para calcular la cantidad de firmas necesarias para la activación de mecanismos se consulta y actualiza trimestralmente la información de las listas nominales y padrones electorales con base en la sección de Datos Abiertos del INE. 
+
+Para conocer los mecanismos que se han activado hasta el año 2022, Política Colectiva realizó solicitudes de información a través de la Plataforma Nacional de Transparencia a: 
+- Institutos Electorales Locales 
+- Secretarías de Gobierno 
+- Congresos Locales
+
+Todas las respuestas a las solicitudes pueden ser consultadas en nuestra base de datos de mecanismos activados. 
 
 ![primavera-demo-01-min](https://github.com/Politica-Colectiva/primavera-politica-datos/assets/6744123/815c982c-3785-4693-b893-fa2083ddc5de)
 
@@ -43,10 +53,11 @@ Este proyecto está licenciado bajo la licencia Open Data Commons Open Database 
 
 ## Agradecimientos
 Agradecemos a todos los que han colaborado y hecho posible este proyecto. 
-- .
-- .
-- .
-- .
+- **Investigadoras:** Pamela Pérez Gómez, Lizeth Mejorada Barrios
+- **Colaboradores de investigación:** Luis Javier Moreno, Ana Victoria Borja, Pedro Carrera Ricardo Valles, Inda Estela Flores Sánchez
+
+A nuestras familias, amores, amistades y todas las personas que fueron redes de apoyo en este proyecto.
+A las organizaciones que confiaron en nosotras en nuestro arranque para hacer equipo y promover mejores condiciones de participación en Quintana Roo, Coahuila, Querétaro y Chihuahua.
 
 ## ¿Quiénes somos?
 **[Política Colectiva](https://politicacolectiva.com/)** somos una organización de la sociedad civil que investiga y propone acciones a nivel estatal y municipal para incentivar la participación ciudadana y mejorar el desempeño de los gobiernos, en temas de transparencia, finanzas públicas y combate a la corrupción. 
