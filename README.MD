@@ -1,7 +1,7 @@
 # Primavera Política: Participar en política más allá del voto es un derecho humano.
 Plataforma para entender e impulsar los mecanismos de participación ciudadana que existen en las legislaciones locales en México. Un proyecto de Política Colectiva.
 
-![primavera-politica-portada](https://github.com/Politica-Colectiva/primavera-politica-datos/assets/6744123/4f1270a0-39bf-4c9b-9c11-839db1e5c82e)
+![primavera-politica-portada](img/primavera-politica-portada-02.png)
 
 
 ## Descripción
@@ -28,7 +28,7 @@ Para conocer los mecanismos que se han activado hasta el año 2022, Política Co
 
 Todas las respuestas a las solicitudes pueden ser consultadas en nuestra base de datos de mecanismos activados. 
 
-![primavera-demo-01-min](https://github.com/Politica-Colectiva/primavera-politica-datos/assets/6744123/815c982c-3785-4693-b893-fa2083ddc5de)
+![primavera-demo-01-min](img/primavera-demo-01-min.gif)
 
 
 ### [¡Explora el proyecto!](https://politicacolectiva.com/primavera-politica/)
